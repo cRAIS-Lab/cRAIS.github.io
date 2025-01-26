@@ -1,5 +1,5 @@
 baseurl: '/cRAIS.github.io/'
-permalink: pretty
+permalink: 'pretty'
 title: 'cRAIS'
 url: "https://cRAIS.github.io/cRAIS.github.io"
 remote_theme: zerostaticthemes/jekyll-serif-theme
